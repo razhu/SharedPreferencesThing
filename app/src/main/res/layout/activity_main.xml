@@ -80,4 +80,5 @@
         android:layout_below="@+id/b_save"
         android:layout_toRightOf="@+id/textView2"
         android:layout_toEndOf="@+id/textView2"/>
+
 </RelativeLayout>
